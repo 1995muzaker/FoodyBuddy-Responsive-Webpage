@@ -14,6 +14,10 @@
 	.main-banner h2{
 		font-size: 39px !important;
 	}
+	
+	 .men-p{
+	    margin:0px 31%;	
+	}
 }
 @media (max-width: 414px) {
 	.main-banner h2{
