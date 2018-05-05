@@ -1,0 +1,99 @@
+@media (max-width: 1024px) {
+	.logo{
+	margin-right: 76px !important;
+	}
+	.add{
+		left: 54%;
+    width: 119px !important;
+	}
+	.pb_navbar.scrolled.pb_scrolled-light ul li a{
+		margin-right: 27px !important;
+	}
+}
+@media (max-width: 768px) {
+	.main-banner h2{
+		font-size: 39px !important;
+	}
+}
+@media (max-width: 414px) {
+	.main-banner h2{
+		font-size: 23px !important;
+	}
+	.main-banner{
+		height: 550px;
+	}
+	.sub-abt{
+		padding: 25px 24px;
+	}
+	.add{
+		left: 58%;
+    width: 119px !important;
+	}
+	.dwld-app{
+		padding: 12% 0% 2%;
+	}
+	.dwld-app h2{
+		font-size: 22px;
+		line-height: 35px;
+	}
+	.dwld-app img{
+		width: 180px;
+		height: 69px;
+	}
+	#section-contact h2{
+		font-size: 22px !important;
+	}
+	.f-1{
+		text-align: center;
+	}
+	.f-2{
+		text-align: center;
+	}
+}
+
+@media (max-width: 360px) {
+	.main-banner h2{
+		font-size: 23px !important;
+	}
+	.main-banner{
+		height: 550px;
+	}
+	.sub-abt{
+		padding: 25px 24px;
+	}
+	.add{
+		left: 58%;
+    width: 119px !important;
+	}
+	.dwld-app{
+		padding: 12% 0% 2%;
+	}
+	.dwld-app h2{
+		font-size: 22px;
+		line-height: 35px;
+	}
+	.dwld-app img{
+		width: 180px;
+		height: 69px;
+	}
+	#section-contact h2{
+		font-size: 22px !important;
+	}
+	.f-1{
+		text-align: center;
+	}
+	.f-2{
+		text-align: center;
+	}
+}
+
+@media (max-width: 320px) {
+	.men-p{
+		margin: 0% 1%;
+	}
+	.add {
+    bottom: 7px;
+    left: 57%;
+    width: 103px !important;
+}
+}
